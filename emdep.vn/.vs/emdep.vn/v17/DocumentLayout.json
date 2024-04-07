@@ -1,0 +1,55 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Study\\IBookShop\\emdep.vn\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FF60F454-0A9F-489A-9869-FC963FBB9A3F}|D:\\Study\\IBookShop\\emdep.vn|d:\\study\\ibookshop\\emdep.vn\\app_code\\database\\sqldatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF60F454-0A9F-489A-9869-FC963FBB9A3F}|D:\\Study\\IBookShop\\emdep.vn|solutionrelative:app_code\\database\\sqldatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF60F454-0A9F-489A-9869-FC963FBB9A3F}|D:\\Study\\IBookShop\\emdep.vn|d:\\study\\ibookshop\\emdep.vn\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{FF60F454-0A9F-489A-9869-FC963FBB9A3F}|D:\\Study\\IBookShop\\emdep.vn|solutionrelative:web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Web.config",
+              "DocumentMoniker": "D:\\Study\\IBookShop\\emdep.vn\\Web.config",
+              "RelativeDocumentMoniker": "Web.config",
+              "ToolTip": "D:\\Study\\IBookShop\\emdep.vn\\Web.config",
+              "RelativeToolTip": "Web.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-04-07T15:43:16.282Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SQLDatabase.cs",
+              "DocumentMoniker": "D:\\Study\\IBookShop\\emdep.vn\\App_Code\\Database\\SQLDatabase.cs",
+              "RelativeDocumentMoniker": "App_Code\\Database\\SQLDatabase.cs",
+              "ToolTip": "D:\\Study\\IBookShop\\emdep.vn\\App_Code\\Database\\SQLDatabase.cs",
+              "RelativeToolTip": "App_Code\\Database\\SQLDatabase.cs",
+              "ViewState": "AQIAAC8AAAAAAAAAAAAwwDsAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-07T15:49:03.413Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
