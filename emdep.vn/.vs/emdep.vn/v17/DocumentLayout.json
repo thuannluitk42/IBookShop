@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "D:\\Study\\IBookShop\\emdep.vn\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{FF60F454-0A9F-489A-9869-FC963FBB9A3F}|D:\\Study\\IBookShop\\emdep.vn|d:\\study\\ibookshop\\emdep.vn\\app_code\\database\\sqldatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FF60F454-0A9F-489A-9869-FC963FBB9A3F}|D:\\Study\\IBookShop\\emdep.vn|solutionrelative:app_code\\database\\sqldatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FF60F454-0A9F-489A-9869-FC963FBB9A3F}|D:\\Study\\IBookShop\\emdep.vn|d:\\study\\ibookshop\\emdep.vn\\cms\\admin\\sanpham\\quanlydanhmuc\\danhmuc_hienthi.ascx||{F390D63C-F7D8-4E74-AA04-57C1ECF53D4D}",
+      "RelativeMoniker": "D:0:0:{FF60F454-0A9F-489A-9869-FC963FBB9A3F}|D:\\Study\\IBookShop\\emdep.vn|solutionrelative:cms\\admin\\sanpham\\quanlydanhmuc\\danhmuc_hienthi.ascx||{F390D63C-F7D8-4E74-AA04-57C1ECF53D4D}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FF60F454-0A9F-489A-9869-FC963FBB9A3F}|D:\\Study\\IBookShop\\emdep.vn|d:\\study\\ibookshop\\emdep.vn\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
-      "RelativeMoniker": "D:0:0:{FF60F454-0A9F-489A-9869-FC963FBB9A3F}|D:\\Study\\IBookShop\\emdep.vn|solutionrelative:web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+      "AbsoluteMoniker": "D:0:0:{FF60F454-0A9F-489A-9869-FC963FBB9A3F}|D:\\Study\\IBookShop\\emdep.vn|d:\\study\\ibookshop\\emdep.vn\\cms\\admin\\sanpham\\quanlydanhmuc\\danhmuc_themmoi.ascx||{F390D63C-F7D8-4E74-AA04-57C1ECF53D4D}",
+      "RelativeMoniker": "D:0:0:{FF60F454-0A9F-489A-9869-FC963FBB9A3F}|D:\\Study\\IBookShop\\emdep.vn|solutionrelative:cms\\admin\\sanpham\\quanlydanhmuc\\danhmuc_themmoi.ascx||{F390D63C-F7D8-4E74-AA04-57C1ECF53D4D}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,33 +18,32 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Web.config",
-              "DocumentMoniker": "D:\\Study\\IBookShop\\emdep.vn\\Web.config",
-              "RelativeDocumentMoniker": "Web.config",
-              "ToolTip": "D:\\Study\\IBookShop\\emdep.vn\\Web.config",
-              "RelativeToolTip": "Web.config",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAArAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
-              "WhenOpened": "2024-04-07T15:43:16.282Z",
-              "IsPinned": true,
+              "DocumentIndex": 0,
+              "Title": "DanhMuc_HienThi.ascx",
+              "DocumentMoniker": "D:\\Study\\IBookShop\\emdep.vn\\cms\\admin\\SanPham\\QuanLyDanhMuc\\DanhMuc_HienThi.ascx",
+              "RelativeDocumentMoniker": "cms\\admin\\SanPham\\QuanLyDanhMuc\\DanhMuc_HienThi.ascx",
+              "ToolTip": "D:\\Study\\IBookShop\\emdep.vn\\cms\\admin\\SanPham\\QuanLyDanhMuc\\DanhMuc_HienThi.ascx",
+              "RelativeToolTip": "cms\\admin\\SanPham\\QuanLyDanhMuc\\DanhMuc_HienThi.ascx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003302|",
+              "WhenOpened": "2024-04-08T14:45:07.506Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "SQLDatabase.cs",
-              "DocumentMoniker": "D:\\Study\\IBookShop\\emdep.vn\\App_Code\\Database\\SQLDatabase.cs",
-              "RelativeDocumentMoniker": "App_Code\\Database\\SQLDatabase.cs",
-              "ToolTip": "D:\\Study\\IBookShop\\emdep.vn\\App_Code\\Database\\SQLDatabase.cs",
-              "RelativeToolTip": "App_Code\\Database\\SQLDatabase.cs",
-              "ViewState": "AQIAAC8AAAAAAAAAAAAwwDsAAAAnAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-07T15:49:03.413Z",
+              "DocumentIndex": 1,
+              "Title": "DanhMuc_ThemMoi.ascx",
+              "DocumentMoniker": "D:\\Study\\IBookShop\\emdep.vn\\cms\\admin\\SanPham\\QuanLyDanhMuc\\DanhMuc_ThemMoi.ascx",
+              "RelativeDocumentMoniker": "cms\\admin\\SanPham\\QuanLyDanhMuc\\DanhMuc_ThemMoi.ascx",
+              "ToolTip": "D:\\Study\\IBookShop\\emdep.vn\\cms\\admin\\SanPham\\QuanLyDanhMuc\\DanhMuc_ThemMoi.ascx",
+              "RelativeToolTip": "cms\\admin\\SanPham\\QuanLyDanhMuc\\DanhMuc_ThemMoi.ascx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003302|",
+              "WhenOpened": "2024-04-08T12:51:50.17Z",
               "EditorCaption": ""
             }
           ]
