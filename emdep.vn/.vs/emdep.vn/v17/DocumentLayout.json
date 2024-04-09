@@ -3,12 +3,20 @@
   "WorkspaceRootPath": "D:\\Study\\IBookShop\\emdep.vn\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{FF60F454-0A9F-489A-9869-FC963FBB9A3F}|D:\\Study\\IBookShop\\emdep.vn|d:\\study\\ibookshop\\emdep.vn\\cms\\admin\\sanpham\\quanlydanhmuc\\danhmuc_hienthi.ascx||{F390D63C-F7D8-4E74-AA04-57C1ECF53D4D}",
-      "RelativeMoniker": "D:0:0:{FF60F454-0A9F-489A-9869-FC963FBB9A3F}|D:\\Study\\IBookShop\\emdep.vn|solutionrelative:cms\\admin\\sanpham\\quanlydanhmuc\\danhmuc_hienthi.ascx||{F390D63C-F7D8-4E74-AA04-57C1ECF53D4D}"
+      "AbsoluteMoniker": "D:0:0:{FF60F454-0A9F-489A-9869-FC963FBB9A3F}|D:\\Study\\IBookShop\\emdep.vn|d:\\study\\ibookshop\\emdep.vn\\login.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{FF60F454-0A9F-489A-9869-FC963FBB9A3F}|D:\\Study\\IBookShop\\emdep.vn|solutionrelative:login.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FF60F454-0A9F-489A-9869-FC963FBB9A3F}|D:\\Study\\IBookShop\\emdep.vn|d:\\study\\ibookshop\\emdep.vn\\cms\\admin\\sanpham\\quanlydanhmuc\\danhmuc_themmoi.ascx||{F390D63C-F7D8-4E74-AA04-57C1ECF53D4D}",
-      "RelativeMoniker": "D:0:0:{FF60F454-0A9F-489A-9869-FC963FBB9A3F}|D:\\Study\\IBookShop\\emdep.vn|solutionrelative:cms\\admin\\sanpham\\quanlydanhmuc\\danhmuc_themmoi.ascx||{F390D63C-F7D8-4E74-AA04-57C1ECF53D4D}"
+      "AbsoluteMoniker": "D:0:0:{FF60F454-0A9F-489A-9869-FC963FBB9A3F}|D:\\Study\\IBookShop\\emdep.vn|D:\\Study\\IBookShop\\emdep.vn\\admin.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{FF60F454-0A9F-489A-9869-FC963FBB9A3F}|D:\\Study\\IBookShop\\emdep.vn|solutionrelative:admin.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF60F454-0A9F-489A-9869-FC963FBB9A3F}|D:\\Study\\IBookShop\\emdep.vn|D:\\Study\\IBookShop\\emdep.vn\\admin.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF60F454-0A9F-489A-9869-FC963FBB9A3F}|D:\\Study\\IBookShop\\emdep.vn|solutionrelative:admin.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF60F454-0A9F-489A-9869-FC963FBB9A3F}|D:\\Study\\IBookShop\\emdep.vn|D:\\Study\\IBookShop\\emdep.vn\\login.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF60F454-0A9F-489A-9869-FC963FBB9A3F}|D:\\Study\\IBookShop\\emdep.vn|solutionrelative:login.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,32 +26,56 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "DanhMuc_HienThi.ascx",
-              "DocumentMoniker": "D:\\Study\\IBookShop\\emdep.vn\\cms\\admin\\SanPham\\QuanLyDanhMuc\\DanhMuc_HienThi.ascx",
-              "RelativeDocumentMoniker": "cms\\admin\\SanPham\\QuanLyDanhMuc\\DanhMuc_HienThi.ascx",
-              "ToolTip": "D:\\Study\\IBookShop\\emdep.vn\\cms\\admin\\SanPham\\QuanLyDanhMuc\\DanhMuc_HienThi.ascx",
-              "RelativeToolTip": "cms\\admin\\SanPham\\QuanLyDanhMuc\\DanhMuc_HienThi.ascx",
+              "DocumentIndex": 1,
+              "Title": "Admin.aspx",
+              "DocumentMoniker": "D:\\Study\\IBookShop\\emdep.vn\\Admin.aspx",
+              "RelativeDocumentMoniker": "Admin.aspx",
+              "ToolTip": "D:\\Study\\IBookShop\\emdep.vn\\Admin.aspx",
+              "RelativeToolTip": "Admin.aspx",
               "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003302|",
-              "WhenOpened": "2024-04-08T14:45:07.506Z",
-              "EditorCaption": ""
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-04-09T09:17:52.023Z",
+              "IsPinned": true
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "DanhMuc_ThemMoi.ascx",
-              "DocumentMoniker": "D:\\Study\\IBookShop\\emdep.vn\\cms\\admin\\SanPham\\QuanLyDanhMuc\\DanhMuc_ThemMoi.ascx",
-              "RelativeDocumentMoniker": "cms\\admin\\SanPham\\QuanLyDanhMuc\\DanhMuc_ThemMoi.ascx",
-              "ToolTip": "D:\\Study\\IBookShop\\emdep.vn\\cms\\admin\\SanPham\\QuanLyDanhMuc\\DanhMuc_ThemMoi.ascx",
-              "RelativeToolTip": "cms\\admin\\SanPham\\QuanLyDanhMuc\\DanhMuc_ThemMoi.ascx",
+              "DocumentIndex": 2,
+              "Title": "Admin.aspx.cs",
+              "DocumentMoniker": "D:\\Study\\IBookShop\\emdep.vn\\Admin.aspx.cs",
+              "RelativeDocumentMoniker": "Admin.aspx.cs",
+              "ToolTip": "D:\\Study\\IBookShop\\emdep.vn\\Admin.aspx.cs",
+              "RelativeToolTip": "Admin.aspx.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T09:18:02.219Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Login.aspx.cs",
+              "DocumentMoniker": "D:\\Study\\IBookShop\\emdep.vn\\Login.aspx.cs",
+              "RelativeDocumentMoniker": "Login.aspx.cs",
+              "ToolTip": "D:\\Study\\IBookShop\\emdep.vn\\Login.aspx.cs",
+              "RelativeToolTip": "Login.aspx.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAAwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T09:12:59.479Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Login.aspx",
+              "DocumentMoniker": "D:\\Study\\IBookShop\\emdep.vn\\Login.aspx",
+              "RelativeDocumentMoniker": "Login.aspx",
+              "ToolTip": "D:\\Study\\IBookShop\\emdep.vn\\Login.aspx",
+              "RelativeToolTip": "Login.aspx",
               "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003302|",
-              "WhenOpened": "2024-04-08T12:51:50.17Z",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-04-09T09:12:54.939Z",
               "EditorCaption": ""
             }
           ]

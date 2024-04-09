@@ -7,7 +7,7 @@
 
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head runat="server">
-    <title>Trang quản trị website IClothes.com</title>
+    <title>Trang quan trị website emdep.vn</title>
     <link href="cms/admin/css/cssAdmin.css" rel="stylesheet" />
     <script src="cms/admin/js/jquery-3.1.1.min.js"></script>
 </head>
