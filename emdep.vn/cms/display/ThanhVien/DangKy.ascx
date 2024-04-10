@@ -4,7 +4,9 @@
     <h1>TẠO TÀI KHOẢN</h1>
 </div>
 <div class="userbox">
-
+    <!-- set text hien thi ket qua tai day -->
+    <!-- thanh cong hien thi text mau xanh -->
+    <!-- thanh that bai hien thi text mau do -->
     <div id="create_customer">
         <input name="form_type" type="hidden" value="create_customer">
         <input name="utf8" type="hidden" value="✓">

@@ -25,10 +25,10 @@ public partial class cms_display_SanPham_DanhSachCacSanPham : System.Web.UI.User
         {
             s += "<div class='sanphamnoibat'>";
             s += @"
-<a class='title-line' href='/Default.aspx?modul=SanPham&modulphu=DanhSachSanPham&id=" + dt.Rows[i]["MaDM"] + @"' title='" + dt.Rows[i]["TenDM"] + @"'>
-    <h3>" + dt.Rows[i]["TenDM"] + @"</h3>
-</a>
-";
+                <a class='title-line' href='/Default.aspx?modul=SanPham&modulphu=DanhSachSanPham&id=" + dt.Rows[i]["MaDM"] + @"' title='" + dt.Rows[i]["TenDM"] + @"'>
+                    <h3>" + dt.Rows[i]["TenDM"] + @"</h3>
+                </a>
+                ";
             s += "<div>";
             s += LayTatCaDanhSachSanPhamTheoDanhMuc(dt.Rows[i]["MaDM"].ToString());
             s += "</div>";
@@ -51,18 +51,18 @@ public partial class cms_display_SanPham_DanhSachCacSanPham : System.Web.UI.User
             link = "Default.aspx?modul=SanPham&modulphu=ChiTietSanPham&id=" + dt.Rows[i]["MaSP"];
 
             s += @"
-<div class='item'>
-    <a href='" + link + @"' title='" + dt.Rows[i]["TenSP"] + @"'>
-        <img src='/pic/sanpham/" + dt.Rows[i]["AnhSP"] + @"' alt='" + dt.Rows[i]["TenSP"] + @"' />
-    </a>
-    <a class='title-sp' href='" + link + @"' title='" + dt.Rows[i]["TenSP"] + @"'>
-        " + dt.Rows[i]["TenSP"] + @"
-    </a>
-    <div class='desc'>
-        Giá: " + dt.Rows[i]["GiaSP"] + @"
-    </div>
-</div>
-";
+                <div class='item'>
+                    <a href='" + link + @"' title='" + dt.Rows[i]["TenSP"] + @"'>
+                        <img src='/pic/sanpham/" + dt.Rows[i]["AnhSP"] + @"' alt='" + dt.Rows[i]["TenSP"] + @"' />
+                    </a>
+                    <a class='title-sp' href='" + link + @"' title='" + dt.Rows[i]["TenSP"] + @"'>
+                        " + dt.Rows[i]["TenSP"] + @"
+                    </a>
+                    <div class='desc'>
+                        Giá: " + dt.Rows[i]["GiaSP"] + @"
+                    </div>
+                </div>
+                ";
         }
         return s;
     }

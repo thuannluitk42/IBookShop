@@ -63,12 +63,12 @@
     <style>
                         /* jssor slider bullet navigator skin 05 css */
                         /*
-        .jssorb05 div           (normal)
-        .jssorb05 div:hover     (normal mouseover)
-        .jssorb05 .av           (active)
-        .jssorb05 .av:hover     (active mouseover)
-        .jssorb05 .dn           (mousedown)
-        */
+                            .jssorb05 div           (normal)
+                            .jssorb05 div:hover     (normal mouseover)
+                            .jssorb05 .av           (active)
+                            .jssorb05 .av:hover     (active mouseover)
+                            .jssorb05 .dn           (mousedown)
+                        */
                         .jssorb05 {
                             position: absolute;
                         }
@@ -101,23 +101,23 @@
 
                         /* jssor slider arrow navigator skin 22 css */
                         /*
-        .jssora22l                  (normal)
-        .jssora22r                  (normal)
-        .jssora22l:hover            (normal mouseover)
-        .jssora22r:hover            (normal mouseover)
-        .jssora22l.jssora22ldn      (mousedown)
-        .jssora22r.jssora22rdn      (mousedown)
-        */
-        .jssora22l, .jssora22r {
-            display: block;
-            position: absolute;
-            /* size of arrow element */
-            width: 40px;
-            height: 58px;
-            cursor: pointer;
-            background: url('js/full-width-slider.slider/img/a22.png') center center no-repeat;
-            overflow: hidden;
-        }
+                        .jssora22l                  (normal)
+                        .jssora22r                  (normal)
+                        .jssora22l:hover            (normal mouseover)
+                        .jssora22r:hover            (normal mouseover)
+                        .jssora22l.jssora22ldn      (mousedown)
+                        .jssora22r.jssora22rdn      (mousedown)
+                        */
+                        .jssora22l, .jssora22r {
+                            display: block;
+                            position: absolute;
+                            /* size of arrow element */
+                            width: 40px;
+                            height: 58px;
+                            cursor: pointer;
+                            background: url('js/full-width-slider.slider/img/a22.png') center center no-repeat;
+                            overflow: hidden;
+                        }
 
                         .jssora22l {
                             background-position: -10px -31px;

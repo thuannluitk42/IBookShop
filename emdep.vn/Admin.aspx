@@ -7,7 +7,7 @@
 
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head runat="server">
-    <title>Trang quan trị website emdep.vn</title>
+    <title>Trang quan trị website IShopClothes</title>
     <link href="cms/admin/css/cssAdmin.css" rel="stylesheet" />
     <script src="cms/admin/js/jquery-3.1.1.min.js"></script>
 </head>
@@ -18,7 +18,7 @@
             <div id="header">
                 <div class="container">
                     <div class="logo">
-                        <a href="/Admin.aspx"><img src="pic/Logo/emdep.jpg" /></a>
+                        <a href="/Admin.aspx"><img src="pic/Logo/emdep.jpg" style="height:50px;width:250px"/></a>
                     </div>
                     <div class="accountMenu">
                         Xin chào:<asp:Literal ID="ltrTenDangNhap" runat="server"></asp:Literal> | <asp:LinkButton ID="lbtDangXuat" runat="server" OnClick="lbtDangXuat_Click">Đăng xuất</asp:LinkButton>

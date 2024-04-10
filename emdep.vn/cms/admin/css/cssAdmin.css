@@ -61,7 +61,7 @@ a {
     }
 
 .MenuChinh {
-    background: #f75d75
+    background: #f04c2c
 }
 
     .MenuChinh ul,
@@ -84,7 +84,7 @@ a {
 
             .MenuChinh li a.current,
             .MenuChinh li a:hover {
-                background: #ff006e
+                background: #d4b87f
             }
 
 /*Cột Trái, cột phải trang Admin*/

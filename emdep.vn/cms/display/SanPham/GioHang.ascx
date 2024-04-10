@@ -117,9 +117,9 @@
                 <div>                    
                     <input id="rbChuyenKhoan" type="radio" name="rbHinhThucThanhToan"/><label for="rbChuyenKhoan">Thanh toán chuyển khoản</label>
                     <div class="paymentInfo">
-                        Tên tài khoản: Công ty cổ phần dịch vụ Tất Thành<br/>
-                        Số tài khoản: 1305201005711<br/>
-                        Ngân hàng nông nghiệp và phát triển nông thôn Việt Nam - Chi nhánh Tràng An
+                        Tên tài khoản: Công ty cổ phần dịch vụ Thuận Lê<br/>
+                        Số tài khoản: 04401015975284<br/>
+                        Ngân hàng TMCP Hàng Hải Việt Nam - Chi nhánh Phổ Quang
                     </div>
                 </div><br/>
                 <div>                    

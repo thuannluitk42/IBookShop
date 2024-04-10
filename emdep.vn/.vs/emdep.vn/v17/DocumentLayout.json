@@ -3,20 +3,96 @@
   "WorkspaceRootPath": "D:\\Study\\IBookShop\\emdep.vn\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{FF60F454-0A9F-489A-9869-FC963FBB9A3F}|D:\\Study\\IBookShop\\emdep.vn|d:\\study\\ibookshop\\emdep.vn\\login.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
-      "RelativeMoniker": "D:0:0:{FF60F454-0A9F-489A-9869-FC963FBB9A3F}|D:\\Study\\IBookShop\\emdep.vn|solutionrelative:login.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+      "AbsoluteMoniker": "D:0:0:{FF60F454-0A9F-489A-9869-FC963FBB9A3F}|D:\\Study\\IBookShop\\emdep.vn|d:\\study\\ibookshop\\emdep.vn\\onepay\\vpc_dr.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF60F454-0A9F-489A-9869-FC963FBB9A3F}|D:\\Study\\IBookShop\\emdep.vn|solutionrelative:onepay\\vpc_dr.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FF60F454-0A9F-489A-9869-FC963FBB9A3F}|D:\\Study\\IBookShop\\emdep.vn|D:\\Study\\IBookShop\\emdep.vn\\admin.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
-      "RelativeMoniker": "D:0:0:{FF60F454-0A9F-489A-9869-FC963FBB9A3F}|D:\\Study\\IBookShop\\emdep.vn|solutionrelative:admin.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+      "AbsoluteMoniker": "D:0:0:{FF60F454-0A9F-489A-9869-FC963FBB9A3F}|D:\\Study\\IBookShop\\emdep.vn|d:\\study\\ibookshop\\emdep.vn\\onepay\\vpc_dr.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{FF60F454-0A9F-489A-9869-FC963FBB9A3F}|D:\\Study\\IBookShop\\emdep.vn|solutionrelative:onepay\\vpc_dr.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FF60F454-0A9F-489A-9869-FC963FBB9A3F}|D:\\Study\\IBookShop\\emdep.vn|D:\\Study\\IBookShop\\emdep.vn\\admin.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FF60F454-0A9F-489A-9869-FC963FBB9A3F}|D:\\Study\\IBookShop\\emdep.vn|solutionrelative:admin.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FF60F454-0A9F-489A-9869-FC963FBB9A3F}|D:\\Study\\IBookShop\\emdep.vn|d:\\study\\ibookshop\\emdep.vn\\cms\\display\\sanpham\\ajax\\xulygiohang.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF60F454-0A9F-489A-9869-FC963FBB9A3F}|D:\\Study\\IBookShop\\emdep.vn|solutionrelative:cms\\display\\sanpham\\ajax\\xulygiohang.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FF60F454-0A9F-489A-9869-FC963FBB9A3F}|D:\\Study\\IBookShop\\emdep.vn|D:\\Study\\IBookShop\\emdep.vn\\login.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FF60F454-0A9F-489A-9869-FC963FBB9A3F}|D:\\Study\\IBookShop\\emdep.vn|solutionrelative:login.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FF60F454-0A9F-489A-9869-FC963FBB9A3F}|D:\\Study\\IBookShop\\emdep.vn|d:\\study\\ibookshop\\emdep.vn\\cms\\display\\sanpham\\ajax\\xulygiohang.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{FF60F454-0A9F-489A-9869-FC963FBB9A3F}|D:\\Study\\IBookShop\\emdep.vn|solutionrelative:cms\\display\\sanpham\\ajax\\xulygiohang.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF60F454-0A9F-489A-9869-FC963FBB9A3F}|D:\\Study\\IBookShop\\emdep.vn|D:\\Study\\IBookShop\\emdep.vn\\cms\\display\\sanpham\\giohang.ascx||{F390D63C-F7D8-4E74-AA04-57C1ECF53D4D}",
+      "RelativeMoniker": "D:0:0:{FF60F454-0A9F-489A-9869-FC963FBB9A3F}|D:\\Study\\IBookShop\\emdep.vn|solutionrelative:cms\\display\\sanpham\\giohang.ascx||{F390D63C-F7D8-4E74-AA04-57C1ECF53D4D}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF60F454-0A9F-489A-9869-FC963FBB9A3F}|D:\\Study\\IBookShop\\emdep.vn|d:\\study\\ibookshop\\emdep.vn\\app_code\\onepay\\onepaycode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF60F454-0A9F-489A-9869-FC963FBB9A3F}|D:\\Study\\IBookShop\\emdep.vn|solutionrelative:app_code\\onepay\\onepaycode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF60F454-0A9F-489A-9869-FC963FBB9A3F}|D:\\Study\\IBookShop\\emdep.vn|D:\\Study\\IBookShop\\emdep.vn\\default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{FF60F454-0A9F-489A-9869-FC963FBB9A3F}|D:\\Study\\IBookShop\\emdep.vn|solutionrelative:default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF60F454-0A9F-489A-9869-FC963FBB9A3F}|D:\\Study\\IBookShop\\emdep.vn|d:\\study\\ibookshop\\emdep.vn\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{FF60F454-0A9F-489A-9869-FC963FBB9A3F}|D:\\Study\\IBookShop\\emdep.vn|solutionrelative:web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF60F454-0A9F-489A-9869-FC963FBB9A3F}|D:\\Study\\IBookShop\\emdep.vn|D:\\Study\\IBookShop\\emdep.vn\\cms\\display\\sanpham\\daugia.ascx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF60F454-0A9F-489A-9869-FC963FBB9A3F}|D:\\Study\\IBookShop\\emdep.vn|solutionrelative:cms\\display\\sanpham\\daugia.ascx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF60F454-0A9F-489A-9869-FC963FBB9A3F}|D:\\Study\\IBookShop\\emdep.vn|D:\\Study\\IBookShop\\emdep.vn\\cms\\display\\sanpham\\daugia.ascx||{F390D63C-F7D8-4E74-AA04-57C1ECF53D4D}",
+      "RelativeMoniker": "D:0:0:{FF60F454-0A9F-489A-9869-FC963FBB9A3F}|D:\\Study\\IBookShop\\emdep.vn|solutionrelative:cms\\display\\sanpham\\daugia.ascx||{F390D63C-F7D8-4E74-AA04-57C1ECF53D4D}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF60F454-0A9F-489A-9869-FC963FBB9A3F}|D:\\Study\\IBookShop\\emdep.vn|D:\\Study\\IBookShop\\emdep.vn\\cms\\display\\thanhvien\\dangnhap.ascx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF60F454-0A9F-489A-9869-FC963FBB9A3F}|D:\\Study\\IBookShop\\emdep.vn|solutionrelative:cms\\display\\thanhvien\\dangnhap.ascx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF60F454-0A9F-489A-9869-FC963FBB9A3F}|D:\\Study\\IBookShop\\emdep.vn|D:\\Study\\IBookShop\\emdep.vn\\cms\\display\\thanhvien\\dangnhap.ascx||{F390D63C-F7D8-4E74-AA04-57C1ECF53D4D}",
+      "RelativeMoniker": "D:0:0:{FF60F454-0A9F-489A-9869-FC963FBB9A3F}|D:\\Study\\IBookShop\\emdep.vn|solutionrelative:cms\\display\\thanhvien\\dangnhap.ascx||{F390D63C-F7D8-4E74-AA04-57C1ECF53D4D}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF60F454-0A9F-489A-9869-FC963FBB9A3F}|D:\\Study\\IBookShop\\emdep.vn|D:\\Study\\IBookShop\\emdep.vn\\cms\\display\\thanhvien\\dangky.ascx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF60F454-0A9F-489A-9869-FC963FBB9A3F}|D:\\Study\\IBookShop\\emdep.vn|solutionrelative:cms\\display\\thanhvien\\dangky.ascx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF60F454-0A9F-489A-9869-FC963FBB9A3F}|D:\\Study\\IBookShop\\emdep.vn|D:\\Study\\IBookShop\\emdep.vn\\cms\\display\\thanhvien\\dangky.ascx||{F390D63C-F7D8-4E74-AA04-57C1ECF53D4D}",
+      "RelativeMoniker": "D:0:0:{FF60F454-0A9F-489A-9869-FC963FBB9A3F}|D:\\Study\\IBookShop\\emdep.vn|solutionrelative:cms\\display\\thanhvien\\dangky.ascx||{F390D63C-F7D8-4E74-AA04-57C1ECF53D4D}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF60F454-0A9F-489A-9869-FC963FBB9A3F}|D:\\Study\\IBookShop\\emdep.vn|D:\\Study\\IBookShop\\emdep.vn\\app_code\\database\\khachhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF60F454-0A9F-489A-9869-FC963FBB9A3F}|D:\\Study\\IBookShop\\emdep.vn|solutionrelative:app_code\\database\\khachhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF60F454-0A9F-489A-9869-FC963FBB9A3F}|D:\\Study\\IBookShop\\emdep.vn|D:\\Study\\IBookShop\\emdep.vn\\app_code\\database\\luotdaugia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF60F454-0A9F-489A-9869-FC963FBB9A3F}|D:\\Study\\IBookShop\\emdep.vn|solutionrelative:app_code\\database\\luotdaugia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF60F454-0A9F-489A-9869-FC963FBB9A3F}|D:\\Study\\IBookShop\\emdep.vn|D:\\Study\\IBookShop\\emdep.vn\\cms\\display\\tintuc\\chitiettintuc.ascx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF60F454-0A9F-489A-9869-FC963FBB9A3F}|D:\\Study\\IBookShop\\emdep.vn|solutionrelative:cms\\display\\tintuc\\chitiettintuc.ascx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF60F454-0A9F-489A-9869-FC963FBB9A3F}|D:\\Study\\IBookShop\\emdep.vn|D:\\Study\\IBookShop\\emdep.vn\\cms\\display\\tintuc\\chitiettintuc.ascx||{F390D63C-F7D8-4E74-AA04-57C1ECF53D4D}",
+      "RelativeMoniker": "D:0:0:{FF60F454-0A9F-489A-9869-FC963FBB9A3F}|D:\\Study\\IBookShop\\emdep.vn|solutionrelative:cms\\display\\tintuc\\chitiettintuc.ascx||{F390D63C-F7D8-4E74-AA04-57C1ECF53D4D}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF60F454-0A9F-489A-9869-FC963FBB9A3F}|D:\\Study\\IBookShop\\emdep.vn|D:\\Study\\IBookShop\\emdep.vn\\cms\\display\\tintuc\\danhsachcactintuc.ascx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF60F454-0A9F-489A-9869-FC963FBB9A3F}|D:\\Study\\IBookShop\\emdep.vn|solutionrelative:cms\\display\\tintuc\\danhsachcactintuc.ascx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF60F454-0A9F-489A-9869-FC963FBB9A3F}|D:\\Study\\IBookShop\\emdep.vn|D:\\Study\\IBookShop\\emdep.vn\\cms\\display\\tintuc\\danhsachcactintuc.ascx||{F390D63C-F7D8-4E74-AA04-57C1ECF53D4D}",
+      "RelativeMoniker": "D:0:0:{FF60F454-0A9F-489A-9869-FC963FBB9A3F}|D:\\Study\\IBookShop\\emdep.vn|solutionrelative:cms\\display\\tintuc\\danhsachcactintuc.ascx||{F390D63C-F7D8-4E74-AA04-57C1ECF53D4D}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF60F454-0A9F-489A-9869-FC963FBB9A3F}|D:\\Study\\IBookShop\\emdep.vn|D:\\Study\\IBookShop\\emdep.vn\\cms\\display\\tintuc\\trangchumodultintuc.ascx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF60F454-0A9F-489A-9869-FC963FBB9A3F}|D:\\Study\\IBookShop\\emdep.vn|solutionrelative:cms\\display\\tintuc\\trangchumodultintuc.ascx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF60F454-0A9F-489A-9869-FC963FBB9A3F}|D:\\Study\\IBookShop\\emdep.vn|D:\\Study\\IBookShop\\emdep.vn\\cms\\display\\tintuc\\trangchumodultintuc.ascx||{F390D63C-F7D8-4E74-AA04-57C1ECF53D4D}",
+      "RelativeMoniker": "D:0:0:{FF60F454-0A9F-489A-9869-FC963FBB9A3F}|D:\\Study\\IBookShop\\emdep.vn|solutionrelative:cms\\display\\tintuc\\trangchumodultintuc.ascx||{F390D63C-F7D8-4E74-AA04-57C1ECF53D4D}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF60F454-0A9F-489A-9869-FC963FBB9A3F}|D:\\Study\\IBookShop\\emdep.vn|D:\\Study\\IBookShop\\emdep.vn\\default.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF60F454-0A9F-489A-9869-FC963FBB9A3F}|D:\\Study\\IBookShop\\emdep.vn|solutionrelative:default.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,57 +102,292 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Admin.aspx",
-              "DocumentMoniker": "D:\\Study\\IBookShop\\emdep.vn\\Admin.aspx",
-              "RelativeDocumentMoniker": "Admin.aspx",
-              "ToolTip": "D:\\Study\\IBookShop\\emdep.vn\\Admin.aspx",
-              "RelativeToolTip": "Admin.aspx",
+              "DocumentIndex": 4,
+              "Title": "GioHang.ascx",
+              "DocumentMoniker": "D:\\Study\\IBookShop\\emdep.vn\\cms\\display\\SanPham\\GioHang.ascx",
+              "RelativeDocumentMoniker": "cms\\display\\SanPham\\GioHang.ascx",
+              "ToolTip": "D:\\Study\\IBookShop\\emdep.vn\\cms\\display\\SanPham\\GioHang.ascx",
+              "RelativeToolTip": "cms\\display\\SanPham\\GioHang.ascx",
               "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2024-04-09T09:17:52.023Z",
-              "IsPinned": true
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Admin.aspx.cs",
-              "DocumentMoniker": "D:\\Study\\IBookShop\\emdep.vn\\Admin.aspx.cs",
-              "RelativeDocumentMoniker": "Admin.aspx.cs",
-              "ToolTip": "D:\\Study\\IBookShop\\emdep.vn\\Admin.aspx.cs",
-              "RelativeToolTip": "Admin.aspx.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-09T09:18:02.219Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Login.aspx.cs",
-              "DocumentMoniker": "D:\\Study\\IBookShop\\emdep.vn\\Login.aspx.cs",
-              "RelativeDocumentMoniker": "Login.aspx.cs",
-              "ToolTip": "D:\\Study\\IBookShop\\emdep.vn\\Login.aspx.cs",
-              "RelativeToolTip": "Login.aspx.cs",
-              "ViewState": "AQIAAAUAAAAAAAAAAAAAwAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-09T09:12:59.479Z"
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003302|",
+              "WhenOpened": "2024-04-10T10:39:12.902Z",
+              "IsPinned": true,
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Login.aspx",
-              "DocumentMoniker": "D:\\Study\\IBookShop\\emdep.vn\\Login.aspx",
-              "RelativeDocumentMoniker": "Login.aspx",
-              "ToolTip": "D:\\Study\\IBookShop\\emdep.vn\\Login.aspx",
-              "RelativeToolTip": "Login.aspx",
+              "Title": "vpc_dr.aspx.cs",
+              "DocumentMoniker": "D:\\Study\\IBookShop\\emdep.vn\\Onepay\\vpc_dr.aspx.cs",
+              "RelativeDocumentMoniker": "Onepay\\vpc_dr.aspx.cs",
+              "ToolTip": "D:\\Study\\IBookShop\\emdep.vn\\Onepay\\vpc_dr.aspx.cs",
+              "RelativeToolTip": "Onepay\\vpc_dr.aspx.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAgwBkAAABLAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T16:01:06.825Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "vpc_dr.aspx",
+              "DocumentMoniker": "D:\\Study\\IBookShop\\emdep.vn\\Onepay\\vpc_dr.aspx",
+              "RelativeDocumentMoniker": "Onepay\\vpc_dr.aspx",
+              "ToolTip": "D:\\Study\\IBookShop\\emdep.vn\\Onepay\\vpc_dr.aspx",
+              "RelativeToolTip": "Onepay\\vpc_dr.aspx",
               "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2024-04-09T09:12:54.939Z",
+              "WhenOpened": "2024-04-10T16:01:02.556Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Web.config",
+              "DocumentMoniker": "D:\\Study\\IBookShop\\emdep.vn\\Web.config",
+              "RelativeDocumentMoniker": "Web.config",
+              "ToolTip": "D:\\Study\\IBookShop\\emdep.vn\\Web.config",
+              "RelativeToolTip": "Web.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-04-10T15:13:33.897Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "OnepayCode.cs",
+              "DocumentMoniker": "D:\\Study\\IBookShop\\emdep.vn\\App_Code\\Onepay\\OnepayCode.cs",
+              "RelativeDocumentMoniker": "App_Code\\Onepay\\OnepayCode.cs",
+              "ToolTip": "D:\\Study\\IBookShop\\emdep.vn\\App_Code\\Onepay\\OnepayCode.cs",
+              "RelativeToolTip": "App_Code\\Onepay\\OnepayCode.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T15:12:10.724Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "DauGia.ascx",
+              "DocumentMoniker": "D:\\Study\\IBookShop\\emdep.vn\\cms\\display\\SanPham\\DauGia.ascx",
+              "RelativeDocumentMoniker": "cms\\display\\SanPham\\DauGia.ascx",
+              "ToolTip": "D:\\Study\\IBookShop\\emdep.vn\\cms\\display\\SanPham\\DauGia.ascx",
+              "RelativeToolTip": "cms\\display\\SanPham\\DauGia.ascx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003302|",
+              "WhenOpened": "2024-04-10T11:06:33.195Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "XuLyGioHang.aspx.cs",
+              "DocumentMoniker": "D:\\Study\\IBookShop\\emdep.vn\\cms\\display\\SanPham\\Ajax\\XuLyGioHang.aspx.cs",
+              "RelativeDocumentMoniker": "cms\\display\\SanPham\\Ajax\\XuLyGioHang.aspx.cs",
+              "ToolTip": "D:\\Study\\IBookShop\\emdep.vn\\cms\\display\\SanPham\\Ajax\\XuLyGioHang.aspx.cs",
+              "RelativeToolTip": "cms\\display\\SanPham\\Ajax\\XuLyGioHang.aspx.cs",
+              "ViewState": "AQIAAFgAAAAAAAAAAAAwwGwAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T10:40:08.274Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "XuLyGioHang.aspx",
+              "DocumentMoniker": "D:\\Study\\IBookShop\\emdep.vn\\cms\\display\\SanPham\\Ajax\\XuLyGioHang.aspx",
+              "RelativeDocumentMoniker": "cms\\display\\SanPham\\Ajax\\XuLyGioHang.aspx",
+              "ToolTip": "D:\\Study\\IBookShop\\emdep.vn\\cms\\display\\SanPham\\Ajax\\XuLyGioHang.aspx",
+              "RelativeToolTip": "cms\\display\\SanPham\\Ajax\\XuLyGioHang.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-04-10T10:40:04.995Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "DangNhap.ascx.cs",
+              "DocumentMoniker": "D:\\Study\\IBookShop\\emdep.vn\\cms\\display\\ThanhVien\\DangNhap.ascx.cs",
+              "RelativeDocumentMoniker": "cms\\display\\ThanhVien\\DangNhap.ascx.cs",
+              "ToolTip": "D:\\Study\\IBookShop\\emdep.vn\\cms\\display\\ThanhVien\\DangNhap.ascx.cs",
+              "RelativeToolTip": "cms\\display\\ThanhVien\\DangNhap.ascx.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAYwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T10:21:10.505Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "DangNhap.ascx",
+              "DocumentMoniker": "D:\\Study\\IBookShop\\emdep.vn\\cms\\display\\ThanhVien\\DangNhap.ascx",
+              "RelativeDocumentMoniker": "cms\\display\\ThanhVien\\DangNhap.ascx",
+              "ToolTip": "D:\\Study\\IBookShop\\emdep.vn\\cms\\display\\ThanhVien\\DangNhap.ascx",
+              "RelativeToolTip": "cms\\display\\ThanhVien\\DangNhap.ascx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003302|",
+              "WhenOpened": "2024-04-10T10:21:06.239Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "DangKy.ascx.cs",
+              "DocumentMoniker": "D:\\Study\\IBookShop\\emdep.vn\\cms\\display\\ThanhVien\\DangKy.ascx.cs",
+              "RelativeDocumentMoniker": "cms\\display\\ThanhVien\\DangKy.ascx.cs",
+              "ToolTip": "D:\\Study\\IBookShop\\emdep.vn\\cms\\display\\ThanhVien\\DangKy.ascx.cs",
+              "RelativeToolTip": "cms\\display\\ThanhVien\\DangKy.ascx.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T10:09:27.133Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Default.aspx",
+              "DocumentMoniker": "D:\\Study\\IBookShop\\emdep.vn\\Default.aspx",
+              "RelativeDocumentMoniker": "Default.aspx",
+              "ToolTip": "D:\\Study\\IBookShop\\emdep.vn\\Default.aspx",
+              "RelativeToolTip": "Default.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-04-10T08:57:14Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DauGia.ascx.cs",
+              "DocumentMoniker": "D:\\Study\\IBookShop\\emdep.vn\\cms\\display\\SanPham\\DauGia.ascx.cs",
+              "RelativeDocumentMoniker": "cms\\display\\SanPham\\DauGia.ascx.cs",
+              "ToolTip": "D:\\Study\\IBookShop\\emdep.vn\\cms\\display\\SanPham\\DauGia.ascx.cs",
+              "RelativeToolTip": "cms\\display\\SanPham\\DauGia.ascx.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAAwBYAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T11:06:36.679Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "DangKy.ascx",
+              "DocumentMoniker": "D:\\Study\\IBookShop\\emdep.vn\\cms\\display\\ThanhVien\\DangKy.ascx",
+              "RelativeDocumentMoniker": "cms\\display\\ThanhVien\\DangKy.ascx",
+              "ToolTip": "D:\\Study\\IBookShop\\emdep.vn\\cms\\display\\ThanhVien\\DangKy.ascx",
+              "RelativeToolTip": "cms\\display\\ThanhVien\\DangKy.ascx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003302|",
+              "WhenOpened": "2024-04-10T10:09:22.997Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "KhachHang.cs",
+              "DocumentMoniker": "D:\\Study\\IBookShop\\emdep.vn\\App_Code\\Database\\KhachHang.cs",
+              "RelativeDocumentMoniker": "App_Code\\Database\\KhachHang.cs",
+              "ToolTip": "D:\\Study\\IBookShop\\emdep.vn\\App_Code\\Database\\KhachHang.cs",
+              "RelativeToolTip": "App_Code\\Database\\KhachHang.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABoAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T09:44:09.337Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "LuotDauGia.cs",
+              "DocumentMoniker": "D:\\Study\\IBookShop\\emdep.vn\\App_Code\\Database\\LuotDauGia.cs",
+              "RelativeDocumentMoniker": "App_Code\\Database\\LuotDauGia.cs",
+              "ToolTip": "D:\\Study\\IBookShop\\emdep.vn\\App_Code\\Database\\LuotDauGia.cs",
+              "RelativeToolTip": "App_Code\\Database\\LuotDauGia.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T09:44:08.092Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ChiTietTinTuc.ascx.cs",
+              "DocumentMoniker": "D:\\Study\\IBookShop\\emdep.vn\\cms\\display\\TinTuc\\ChiTietTinTuc.ascx.cs",
+              "RelativeDocumentMoniker": "cms\\display\\TinTuc\\ChiTietTinTuc.ascx.cs",
+              "ToolTip": "D:\\Study\\IBookShop\\emdep.vn\\cms\\display\\TinTuc\\ChiTietTinTuc.ascx.cs",
+              "RelativeToolTip": "cms\\display\\TinTuc\\ChiTietTinTuc.ascx.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T09:17:40.025Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ChiTietTinTuc.ascx",
+              "DocumentMoniker": "D:\\Study\\IBookShop\\emdep.vn\\cms\\display\\TinTuc\\ChiTietTinTuc.ascx",
+              "RelativeDocumentMoniker": "cms\\display\\TinTuc\\ChiTietTinTuc.ascx",
+              "ToolTip": "D:\\Study\\IBookShop\\emdep.vn\\cms\\display\\TinTuc\\ChiTietTinTuc.ascx",
+              "RelativeToolTip": "cms\\display\\TinTuc\\ChiTietTinTuc.ascx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003302|",
+              "WhenOpened": "2024-04-10T09:17:28.485Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "DanhSachCacTinTuc.ascx.cs",
+              "DocumentMoniker": "D:\\Study\\IBookShop\\emdep.vn\\cms\\display\\TinTuc\\DanhSachCacTinTuc.ascx.cs",
+              "RelativeDocumentMoniker": "cms\\display\\TinTuc\\DanhSachCacTinTuc.ascx.cs",
+              "ToolTip": "D:\\Study\\IBookShop\\emdep.vn\\cms\\display\\TinTuc\\DanhSachCacTinTuc.ascx.cs",
+              "RelativeToolTip": "cms\\display\\TinTuc\\DanhSachCacTinTuc.ascx.cs",
+              "ViewState": "AQIAACwAAAAAAAAAAAAgwEcAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T09:14:15.4Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "DanhSachCacTinTuc.ascx",
+              "DocumentMoniker": "D:\\Study\\IBookShop\\emdep.vn\\cms\\display\\TinTuc\\DanhSachCacTinTuc.ascx",
+              "RelativeDocumentMoniker": "cms\\display\\TinTuc\\DanhSachCacTinTuc.ascx",
+              "ToolTip": "D:\\Study\\IBookShop\\emdep.vn\\cms\\display\\TinTuc\\DanhSachCacTinTuc.ascx",
+              "RelativeToolTip": "cms\\display\\TinTuc\\DanhSachCacTinTuc.ascx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003302|",
+              "WhenOpened": "2024-04-10T09:14:08.427Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "TrangChuModulTinTuc.ascx.cs",
+              "DocumentMoniker": "D:\\Study\\IBookShop\\emdep.vn\\cms\\display\\TinTuc\\TrangChuModulTinTuc.ascx.cs",
+              "RelativeDocumentMoniker": "cms\\display\\TinTuc\\TrangChuModulTinTuc.ascx.cs",
+              "ToolTip": "D:\\Study\\IBookShop\\emdep.vn\\cms\\display\\TinTuc\\TrangChuModulTinTuc.ascx.cs",
+              "RelativeToolTip": "cms\\display\\TinTuc\\TrangChuModulTinTuc.ascx.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEMAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T09:06:03.295Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "TrangChuModulTinTuc.ascx",
+              "DocumentMoniker": "D:\\Study\\IBookShop\\emdep.vn\\cms\\display\\TinTuc\\TrangChuModulTinTuc.ascx",
+              "RelativeDocumentMoniker": "cms\\display\\TinTuc\\TrangChuModulTinTuc.ascx",
+              "ToolTip": "D:\\Study\\IBookShop\\emdep.vn\\cms\\display\\TinTuc\\TrangChuModulTinTuc.ascx",
+              "RelativeToolTip": "cms\\display\\TinTuc\\TrangChuModulTinTuc.ascx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003302|",
+              "WhenOpened": "2024-04-10T09:05:58.133Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Default.aspx.cs",
+              "DocumentMoniker": "D:\\Study\\IBookShop\\emdep.vn\\Default.aspx.cs",
+              "RelativeDocumentMoniker": "Default.aspx.cs",
+              "ToolTip": "D:\\Study\\IBookShop\\emdep.vn\\Default.aspx.cs",
+              "RelativeToolTip": "Default.aspx.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABgAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T08:57:18.421Z"
             }
           ]
         }
